@@ -1,4 +1,6 @@
 # 📝 Publications 
 ## 🎙 Federated Learning
-- (Preprint Paper) [FedHist](https://arxiv.org/pdf/2312.10425.pdf): An efficient Asynchronous Federated Learning Scheme.
-![avatar](/images/FedHist-framework.png)
+- [Take History as a Mirror in Heterogeneous Federated Learning] (https://arxiv.org/pdf/2312.10425.pdf)
+Xiaorui Jiang, Hengwei Xu, Yu Gao, Yong Liao, Pengyuan Zhou 
+arXiv, 2023
+<img src="/images/FedHist-framework.png"  style="zoom: 33%;" />

@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xiaorui Jiang (江晓锐)"
-description              : "Focusing on MVL, FL and AIGC. "
+description              : "Focusing on Multi-view Learning, Federated Learning and AIGC. "
 repository               : "xiaorui-jiang/xiaorui-jiang.github.io/"
 google_scholar_stats_use_cdn : true
 

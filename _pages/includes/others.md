@@ -1,9 +1,9 @@
 # 📖 Educations
 - *2023.06 - now*, Master, USTC, Hefei.
 
-Advisor: Pengyuan zhou ([<font color=Blue>周鹏远</font>](https://pengyuan-zhou.github.io)).
+    Advisor: Pengyuan zhou ([周鹏远](https://pengyuan-zhou.github.io)).
 
-Mentor: Manqing Wu (<font color=Blue>吴曼青院士</font>) & Yong Liao (<font color=Blue>廖勇教授</font>).
+    Mentor: Manqing Wu ([吴曼青院士](https://dspace.ustc.edu.cn/?p=1227)) and Yong Liao ([廖勇教授](https://dspace.ustc.edu.cn/?p=1057)).
 
 - *2019.09 - 2023.06*, Undergraduate, HFUT, Hefei.
 

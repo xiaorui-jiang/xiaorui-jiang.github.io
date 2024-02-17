@@ -1,5 +1,5 @@
 # 📝 Publications
-- [Take History as a Mirror in Heterogeneous Federated Learning](https://arxiv.org/pdf/2312.10425.pdf)
+1. [Take History as a Mirror in Heterogeneous Federated Learning](https://arxiv.org/pdf/2312.10425.pdf)
 
     **Xiaorui Jiang**, Hengwei Xu, Yu Gao, Yong Liao, Pengyuan Zhou 
 

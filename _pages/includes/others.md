@@ -12,7 +12,7 @@
 # 💬 Invited Talks
 - *2023.04*, Peer Mentor for the *Youth Leadership* program at HFUT
 
-# 💻 internships
+# 💻 Misc
 
 <details>
 <summary>🎙 Reading Note</summary>

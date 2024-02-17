@@ -12,12 +12,11 @@
 # 💬 Invited Talks
 - *2023.04*, Peer Mentor for the *Youth Leadership* program at HFUT
 
-# 💻 Misc
+# 💻 internships
 
 <details>
 <summary>🎙 Reading Note</summary>
-<pre><code>
 07/2023 愿为江水，与君重逢。 -- 《命运 文在寅自传》
 07/2023 愿为江水，与君重逢。 -- 《命运 文在寅自传》
-</code></pre>
+07/2023 愿为江水，与君重逢。 -- 《命运 文在寅自传》
 </details>

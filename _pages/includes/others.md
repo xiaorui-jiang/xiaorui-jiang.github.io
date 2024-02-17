@@ -7,7 +7,7 @@
 
 - *2019.09 - 2023.06*, Undergraduate, HFUT, Hefei.
 
-    Advisor: <a href="http://faculty.hfut.edu.cn/limeng/zh_CN/index.htm" style="text-decoration: none;">Meng Li (李萌副研究员)</a>
+    Advisor: [Meng Li (李萌副研究员)](http://faculty.hfut.edu.cn/limeng/zh_CN/index.htm)
 
 # 💬 Invited Talks
 - *2023.04*, Peer Mentor for the *Youth Leadership* program at HFUT

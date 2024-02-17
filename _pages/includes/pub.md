@@ -6,4 +6,4 @@
 
     arXiv, 2023
 
-<div align=center><img src="/images/FedHist-framework.png" style="zoom: 30%;"></div>
+<div align=left><img src="/images/FedHist-framework.png" style="zoom: 30%;"></div>

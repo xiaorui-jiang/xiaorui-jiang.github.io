@@ -6,7 +6,5 @@ Prior to USTC, I received the B.S. from [HeFei University of Technology](https
 
 My research interest includes Multi-view Learning, Representation Learning, Federated Learning, and Artificial Intelligence Generated Content. 
     <br>
-    📧 [Email](xrjiang@mail.ustc.edu.cn);
-    <br>
-    💬 [WeChat](Shawrey1002)
+    📖[Google Scholar](https://scholar.google.com/citations?user=DAJ7HogAAAAJ&hl=zh-CN)   📧 [Email] xrjiangATmailDOTustcDOTeduDOTcn   💬  [WeChat] Shawrey1002
 

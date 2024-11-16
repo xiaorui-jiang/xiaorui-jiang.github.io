@@ -1,7 +1,12 @@
 I’m a second year master student majoring in Cyberspace Security at University of Science and Technology of China (USTC).
 
-Currently, I am at [RCDC](https://dspace.ustc.edu.cn/) from [School of Cyber Science and Technology](http://cybersec.ustc.edu.cn/main.htm), [University of Science and Technology of China](https://www.ustc.edu.cn/).
+Currently, I am at [School of Cyber Science and Technology](http://cybersec.ustc.edu.cn/main.htm), [University of Science and Technology of China](https://www.ustc.edu.cn/).
 
-Prior to USTC, I received the B.S.(ranked top 1 out of 49 students) from [HeFei University of Technology](https://www.hfut.edu.cn/) (HFUT) in 2023.
+Prior to USTC, I received the B.S. from [HeFei University of Technology](https://www.hfut.edu.cn/) (HFUT) in 2023.
 
-My research interest includes Multi-view Learning, Representation Learning, Federated Learning and Artificial Intelligence Generated Content.
+My research interest includes Multi-view Learning, Representation Learning, Federated Learning, and Artificial Intelligence Generated Content. 
+    <br>
+    📧 [Email](xrjiang@mail.ustc.edu.cn);
+    <br>
+    💬 [WeChat](Shawrey1002)
+

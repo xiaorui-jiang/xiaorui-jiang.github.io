@@ -8,7 +8,7 @@
 
     ACM MM, 2024
 
-<div style="margin-left: 3%;"><img src="/images/HFMVC-framework.png" style="zoom: 10%;"></div>
+<div style="margin-left: 3%;"><img src="/images/HFMVC-framework.png" style="zoom: 15%;"></div>
 
 
 

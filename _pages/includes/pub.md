@@ -8,6 +8,7 @@
 
 <div style="margin-left: 3%;"><img src="/images/HFMVC-framework.png" style="zoom: 15%;"></div>
 
+<br>
 
 2.[Take History as a Mirror in Heterogeneous Federated Learning](https://arxiv.org/pdf/2312.10425.pdf)
 

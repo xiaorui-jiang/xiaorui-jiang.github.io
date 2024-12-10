@@ -2,7 +2,7 @@
 
 1.[Heterogeneity-Aware Federated Deep Multi-View Clustering towards Diverse Feature Representations](https://dl.acm.org/doi/10.1145/3664647.3681302#)
 
-    **Xiaorui Jiang**, Zhongyi Ma, Yulin Fu, Yong Liao, Pengyuan Zhou
+    <u>**Xiaorui Jiang**</u>, Zhongyi Ma, Yulin Fu, Yong Liao, Pengyuan Zhou
 
     ACM MM, 2024
 

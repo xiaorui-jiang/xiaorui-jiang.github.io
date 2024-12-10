@@ -6,7 +6,7 @@ My research interest includes Multi-view Learning, Representation Learning, Fede
 
 I am currently seeking a PhD position and I hope to continue my research in the areas mentioned above.
 
-You can learn more about me and contact me through the following methods 👇
+You can learn more about me and contact me through the following methods 👇   (Last updated: Dec 11, 2024)
 
 📖 [Google Scholar](https://scholar.google.com/citations?user=DAJ7HogAAAAJ&hl=zh-CN)      💬 <a href="./images/wechat.jpg" target="_blank">WeChat</a>        📧 <a href="mailto:xrjiang@mail.ustc.edu.cn">Email</a>
 

@@ -1,5 +1,11 @@
-# 💬 Invited Talks
-- *2023.04*, Peer Mentor for the *Youth Leadership* program at HFUT
+# 💬 Professional Activities
+
+## Journal Reviewer
+IEEE Transactions on Multimedia (TMM)
+IEEE Open Journal of the Computer Society (OJCS)
+
+## Conference Reviewer
+IEEE International Conference on Multimedia&Expo (ICME) 2025
 
 # 💻 Misc
 

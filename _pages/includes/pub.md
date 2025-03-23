@@ -7,7 +7,7 @@
 
     ICME, 2025
 
-<div style="margin-left: 3%;"><img src="/images/FedHist-framework.png" style="zoom: 17%;"></div>
+<div style="margin-left: 3%;"><img src="/images/FedHist-framework.png" style="zoom: 35%;"></div>
 <br>
 
 

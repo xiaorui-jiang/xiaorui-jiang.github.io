@@ -6,13 +6,17 @@ IEEE Transactions on Multimedia (TMM)
 IEEE Open Journal of the Computer Society (OJCS)
 
 ## Conference Reviewer
+ACM Multimedia (MM) 2025
+
 IEEE International Conference on Multimedia&Expo (ICME) 2025
+
 
 # 💻 Misc
 
 <details>
 <summary>🎙 Reading Note</summary>
 <pre><code>12/2024 也许所有的日子都会过去但不会被遗忘/时光如此清澈像一条流淌的/河流。 -- 《河流 川川》
+12/2024 也许所有的日子都会过去但不会被遗忘/时光如此清澈像一条流淌的/河流。 -- 《河流 川川》
 11/2024 多年之后呢，我会不会想起，多年之前我站在这里，对着这个路灯想这些虚无的东西呢？ 多年之后呢，这间宿舍是谁来住，有没有人站在窗边看到这个路灯呢，他会不会想到，有位学长失眠的时候，站在窗边，凝望这个路灯呢。 -- 摘抄
 02/2024 悲欢离合总无情，一任阶前，点滴到天明。 -- 《虞美人 听雨》
 06/2023 况是青春日将暮，桃花乱落如红雨。 -- 《将进酒》

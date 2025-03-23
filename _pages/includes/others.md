@@ -15,7 +15,7 @@ IEEE International Conference on Multimedia&Expo (ICME) 2025
 
 <details>
 <summary>🎙 Reading Note</summary>
-<pre><code>03/2025我们曾默默承受/破碎的山 呜咽的黑/就在这 长夜之后/凝结一座 新宇宙  -- 《向阳而生》
+<pre><code>03/2025 我们曾默默承受/破碎的山 呜咽的黑/就在这 长夜之后/凝结一座 新宇宙  -- 《向阳而生》
 12/2024 也许所有的日子都会过去但不会被遗忘/时光如此清澈像一条流淌的/河流。 -- 《河流 川川》
 11/2024 多年之后呢，我会不会想起，多年之前我站在这里，对着这个路灯想这些虚无的东西呢？ 多年之后呢，这间宿舍是谁来住，有没有人站在窗边看到这个路灯呢，他会不会想到，有位学长失眠的时候，站在窗边，凝望这个路灯呢。 -- 摘抄
 02/2024 悲欢离合总无情，一任阶前，点滴到天明。 -- 《虞美人 听雨》
@@ -31,5 +31,64 @@ IEEE International Conference on Multimedia&Expo (ICME) 2025
 </code></pre>
 </details>
 
-## 🎥 Photos
-- To be continued…
+[//]: # (## 🎥 Photos)
+
+[//]: # (## 🎥 Photos)
+
+[//]: # ()
+[//]: # (<div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin-left: 3%;">)
+
+[//]: # (  )
+[//]: # (  <figure style="width: 48%; margin-bottom: 20px;">)
+
+[//]: # (    <img src="/images/view3.jpg" alt="Huashan Mountain, Shanxi, 2023" style="width: 100%; height: auto;">)
+
+[//]: # (    <figcaption style="text-align: center; font-style: italic; margin-top: 8px;">)
+
+[//]: # (      Huashan Mountain, Shanxi, 2023)
+
+[//]: # (    </figcaption>)
+
+[//]: # (  </figure>)
+
+[//]: # (  )
+[//]: # (  <figure style="width: 48%; margin-bottom: 20px;">)
+
+[//]: # (    <img src="/images/view1.png" alt="Mutianyu Great Wall, Beijing, 2023" style="width: 100%; height: auto;">)
+
+[//]: # (    <figcaption style="text-align: center; font-style: italic; margin-top: 8px;">)
+
+[//]: # (      Mutianyu Great Wall, Beijing, 2023)
+
+[//]: # (    </figcaption>)
+
+[//]: # (  </figure>)
+
+[//]: # (  )
+[//]: # (  <figure style="width: 48%; margin-bottom: 20px;">)
+
+[//]: # (    <img src="/images/view2.jpg" alt="Yanqi Lake, Beijing, 2024" style="width: 100%; height: auto;">)
+
+[//]: # (    <figcaption style="text-align: center; font-style: italic; margin-top: 8px;">)
+
+[//]: # (      Yanqi Lake, Beijing, 2024)
+
+[//]: # (    </figcaption>)
+
+[//]: # (  </figure>)
+
+[//]: # (  )
+[//]: # (  <figure style="width: 48%; margin-bottom: 20px;">)
+
+[//]: # (    <img src="/images/view4.jpg" alt="Celebration for new year, Beijing, 2025" style="width: 100%; height: auto;">)
+
+[//]: # (    <figcaption style="text-align: center; font-style: italic; margin-top: 8px;">)
+
+[//]: # (      Celebration for new year, Beijing, 2025)
+
+[//]: # (    </figcaption>)
+
+[//]: # (  </figure>)
+
+[//]: # (  )
+[//]: # (</div>)

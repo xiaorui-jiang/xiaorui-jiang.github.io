@@ -19,3 +19,11 @@
 
 <div style="margin-left: 3%;"><img src="/images/HFMVC-framework.png" style="zoom: 17%;"></div>
 
+
+3.[Boosting Bot Detection via Heterophily-Aware Representation Learning and Prototype-Guided Cluster Discovery](https://arxiv.org/pdf/2506.00989)
+
+    Buyun He, **<u>Xiaorui Jiang</u>**, Qi Wu, Hao Liu, Yingguang Yang, Yong Liao
+
+    KDD, 2025
+
+<div style="margin-left: 3%;"><img src="/images/kdd25.png" style="zoom: 27%;"></div>

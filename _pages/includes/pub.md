@@ -18,7 +18,7 @@
     ACM MM, 2024
 
 <div style="margin-left: 3%;"><img src="/images/HFMVC-framework.png" style="zoom: 17%;"></div>
-
+<br>
 
 3.[Boosting Bot Detection via Heterophily-Aware Representation Learning and Prototype-Guided Cluster Discovery](https://arxiv.org/pdf/2506.00989)
 

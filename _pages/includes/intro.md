@@ -2,9 +2,9 @@
 
 Hi, I'm Xiaorui Jiang, a second-year master's student at [University of Science and Technology of China](https://www.ustc.edu.cn/).
 
-My research interest includes Multi-view Learning, Representation Learning, Federated Learning, and MLLM. 
+My research interest includes MLLM, Multi-view Learning, Representation Learning, and Federated Learning. 
 
-I am currently seeking a PhD position and I hope to continue my research in the areas mentioned above.
+[//]: # (I am currently seeking a PhD position and I hope to continue my research in the areas mentioned above.)
 
 👇 You can learn more about me and contact me through the following methods: (Last updated: June 7, 2025)
 

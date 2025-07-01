@@ -10,6 +10,7 @@ ACM Multimedia (MM) 2025
 
 IEEE International Conference on Multimedia&Expo (ICME) 2025
 
+IEEE Conference on Advanced Video and Signal Based Surveillance (AVSS)  2025
 
 # 💻 Misc
 

@@ -1,4 +1,5 @@
 # 🔥 News
+- *2025.05*: 🎉  One paper has been accepted by ICCV 2025!
 - *2025.05*: 🎉  One paper has been accepted by KDD 2025!
 - *2025.03*: 🎉  One paper has been accepted by ICME 2025 (oral)!
 - *2024.07*: 🎉  One paper has been accepted by ACM Multimedia (MM) 2024!

@@ -4,12 +4,11 @@
 
     **<u>Xiaorui Jiang</u>**, Buyun He, Peng Yuan Zhou,  Xinyue Chen, Jingcai Guo, Jie Xu, Yong Liao
 
-    
 <div style="margin-left: 3%; color:red;">
   ICCV, 2025
 </div>
 
-<div style="margin-left: 3%;"><img src="/images/BRIDGE-framework.png" style="zoom: 17%;"></div>
+<div style="margin-left: 3%;"><img src="/images/BRIDGE-framework.png" style="zoom: 20%;"></div>
 <br>
 
 
@@ -17,9 +16,8 @@
 
     **<u>Xiaorui Jiang</u>**, Yu Gao, Hengwei Xu,  Qi Zhang, Yong Liao, Pengyuan Zhou 
 
-    
 <div style="margin-left: 3%; color:red;">
-  ICME, 2025
+  ICME, 2025 (oral)
 </div>
 
 <div style="margin-left: 3%;"><img src="/images/FedHist-framework.png" style="zoom: 17%;"></div>
@@ -30,7 +28,6 @@
 
     **<u>Xiaorui Jiang</u>**, Zhongyi Ma, Yulin Fu, Yong Liao, Pengyuan Zhou
 
-    
 <div style="margin-left: 3%; color:red;">
   ACM MM, 2024
 </div>
@@ -42,7 +39,6 @@
 
     Buyun He, **<u>Xiaorui Jiang</u>**, Qi Wu, Hao Liu, Yingguang Yang, Yong Liao
 
-    
 <div style="margin-left: 3%; color:red;">
   KDD, 2025
 </div>

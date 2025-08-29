@@ -9,7 +9,7 @@
   ICCV, 2025
 </div>
 
-<div style="margin-left: 3%;"><img src="/images/FedHist-framework.png" style="zoom: 17%;"></div>
+<div style="margin-left: 3%;"><img src="/images/BRIDGE-framework.png" style="zoom: 17%;"></div>
 <br>
 
 

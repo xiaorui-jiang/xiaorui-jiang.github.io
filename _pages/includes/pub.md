@@ -8,7 +8,7 @@
   ICCV, 2025
 </div>
 
-<div style="margin-left: 3%;"><img src="/images/BRIDGE-framework.png" style="zoom: 20%;"></div>
+<div style="margin-left: 3%;"><img src="/images/BRIDGE-framework.png" style="zoom: 21%;"></div>
 <br>
 
 
@@ -20,7 +20,7 @@
   ICME, 2025 (oral)
 </div>
 
-<div style="margin-left: 3%;"><img src="/images/FedHist-framework.png" style="zoom: 17%;"></div>
+<div style="margin-left: 3%;"><img src="/images/FedHist-framework.png" style="zoom: 16%;"></div>
 <br>
 
 

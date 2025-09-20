@@ -17,6 +17,7 @@ IEEE International Conference on Multimedia&Expo (ICME) 2025
 - IELTS 7.5
 ## Reading Note
 <details>
+<summary>Reading Note</summary>
 <pre><code>06/2025 语言的边界就是思想的边界 语言向前进一步 思想也就向前进一步。
 12/2024 也许所有的日子都会过去但不会被遗忘/时光如此清澈像一条流淌的/河流。 -- 《河流 川川》
 02/2024 悲欢离合总无情，一任阶前，点滴到天明。 -- 《虞美人 听雨》

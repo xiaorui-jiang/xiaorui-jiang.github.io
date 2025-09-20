@@ -13,6 +13,8 @@ IEEE International Conference on Multimedia&Expo (ICME) 2025
 
 
 # 💻 Misc
+## 📚 English Proficiency
+- IELTS 7.5
 
 <details>
 <summary>🎙 Reading Note</summary>

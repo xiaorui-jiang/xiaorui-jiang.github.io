@@ -7,11 +7,11 @@ My research interest includes MLLM, Multi-view Learning, Representation Learning
 [//]: # (I am currently seeking a PhD position and I hope to continue my research in the areas mentioned above.)
 Specifically, my research interests focus on cross-modal information representation and fusion, with emphasis on the following aspects:
 
-1. <b>Multimodal Information Fusion</b>: <span>Investigating the representation and fusion of multimodal data in unsupervised environments, with a focus on methods such as federated learning and multi-view learning, aiming to achieve <p> efficient information fusion without relying on labeled data.</span>
+1. <b>Multimodal Information Fusion</b>: <span>Investigating the representation and fusion of multimodal data in unsupervised environments,  <span> with a focus on methods such as federated learning and multi-view learning, aiming to achieve  efficient information fusion without relying on labeled data.</span>
 
 2. <b>Cross-modal Inference Performance Enhancement</b>: Concentrating on improving the inference performance of MLLMs, particularly focusing on strategies that do not require additional training, striving to optimize their reasoning ability and generalization.
 
-4. <b>Applications of MLLMs</b>: Starting in November 2025, I will be working as a research assistant at PolyU, where I will  <p>be dedicated to fine-tuning and optimizing multimodal large models for specific domains, driving the development  <p>and application of these models in practical scenarios.
+4. <b>Applications of MLLMs</b>: Starting in November 2025, I will be working as a research assistant at PolyU, where I will  be dedicated <span> to fine-tuning and optimizing multimodal large models for specific domains, driving the development  and application of these models in practical scenarios.
 
 
 👇 You can learn more about me and contact me through the following channels: (Last updated: Sept. 20, 2025)

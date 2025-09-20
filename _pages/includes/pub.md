@@ -10,7 +10,7 @@
 
 2.[Knowledge Rumination for Client Utility Evaluation in Heterogeneous Federated Learning](https://arxiv.org/pdf/2312.10425.pdf)
 
-    **<u>Xiaorui Jiang</u>**, Yu Gao, Hengwei Xu,  Qi Zhang, Yong Liao, Pengyuan Zhou   <font color="red">ICME, 2025 (oral)</font>
+    **<u>Xiaorui Jiang</u>**, Yu Gao, Hengwei Xu,  Qi Zhang, Yong Liao, Pengyuan Zhou   <font color="red">ICME, 2025 (oral, acceptance rate: 15%)</font>
  
 <div style="margin-left: 3%;"><img src="/images/FedHist-framework.png" style="zoom: 17.5%;"></div>
 <br>

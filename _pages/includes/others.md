@@ -1,4 +1,11 @@
-# 💬 Professional Activities
+# 📖 Educations
+- *2023.06 - 2026.06*, Master student, University of Science and Technology of China.
+- *2019.09 - 2023.06*, B.Eng, HeFei University of Technology.
+
+# 🧑‍💻 Research Experience
+- *2025.11 - 2026.05*, Research Assistant, The Hong Kong Polytechnic University.
+
+# 💬 Academic Services
 
 ## Journal Reviewer
 IEEE Transactions on Multimedia (TMM)
@@ -10,6 +17,10 @@ ACM Multimedia (MM) 2025
 
 IEEE International Conference on Multimedia&Expo (ICME) 2025
 
+# 🏆 Honors & Awards
+- National Scholarship, 2025.09
+- First-class Scholarship of University of Science & Technology of China, 2024.09
+- First-class Scholarship of University of Science & Technology of China, 2023.09
 
 # 💻 Misc
 

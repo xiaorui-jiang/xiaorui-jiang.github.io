@@ -12,7 +12,7 @@ My research interests focus on cross-modal information representation and fusion
 
 3. <b>Applications of MLLMs</b>: Starting in Nov. 2025, I will be working as a RA at PolyU, where I will be dedicated to  fine-tuning  <br> and optimizing MLLMs for specific domains, driving the development and application of these models in practical scenarios.
 
-Currently, my papers in progress and under review include:
+Currently, my papers under review or in progress include:
 **(a)** Unsupervised federated multi-view data representation; <br>
 **(b)** Learning dynamics in multi-view data representation;
 **(c)** Research on attention mechanisms in MLLMs and training-free <br> strategies for performance enhancement;

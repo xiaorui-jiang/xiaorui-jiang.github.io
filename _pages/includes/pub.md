@@ -1,6 +1,6 @@
 # 📝 Publications
 
-1.[A Unified Framework to BRIDGE Complete and Incomplete Deep Multi-View Clustering under Non-IID Missing Patterns]()
+1.[A Unified Framework to BRIDGE Complete and Incomplete Deep Multi-View Clustering under Non-IID Missing Patterns](https://openaccess.thecvf.com/content/ICCV2025/papers/Jiang_A_Unified_Framework_to_BRIDGE_Complete_and_Incomplete_Deep_Multi-View_ICCV_2025_paper.pdf)
 
     **<u>Xiaorui Jiang</u>**, Buyun He, Peng Yuan Zhou,  Xinyue Chen, Jingcai Guo, Jie Xu, Yong Liao    <font color="red">ICCV, 2025</font>
  

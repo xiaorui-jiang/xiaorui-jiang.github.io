@@ -10,7 +10,6 @@ My research interests focus on cross-modal information representation and fusion
 
 2. <b>Multimodal Large Language Models</b>: Concentrating on improving the inference performance of MLLMs,   particularly focusing <br>on strategies that do not require additional training, striving to optimize their reasoning ability and generalization.
 
-3. <b>Applications of MLLMs</b>: Starting in Nov. 2025, I will be working as a RA at PolyU, where I will be dedicated to  fine-tuning  <br> and optimizing MLLMs for specific domains, driving the development and application of these models in practical scenarios.
 
 Currently, my papers under review or in progress include:
 **(a)** Unsupervised federated multi-view data representation; <br>
@@ -23,6 +22,6 @@ Currently, my papers under review or in progress include:
  
 👇 Please feel free to reach out to me (Last updated: Sept. 20, 2025)
 
-📖 [Google Scholar](https://scholar.google.com/citations?user=DAJ7HogAAAAJ&hl=zh-CN)      💬 <a href="./images/wechat.jpg" target="_blank">WeChat</a>        📧 <a href="mailto:xrjiang@mail.ustc.edu.cn">Email</a>
+📖 [Google Scholar](https://scholar.google.com/citations?user=DAJ7HogAAAAJ&hl=zh-CN)            📧 <a href="mailto:xrjiang@mail.ustc.edu.cn">Email</a>
 
 

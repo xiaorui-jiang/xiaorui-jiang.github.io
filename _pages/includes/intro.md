@@ -17,10 +17,9 @@ Currently, my papers under review or in progress include:
 **(c)** Research on attention mechanisms in MLLMs and training-free <br> strategies for performance enhancement;
 **(d)** Training-free token compression methods for MLLMs.
 
-<span style="color: red;">If you find any of these topics of interest, I would be truly grateful for your insights.</span>
 
  
-👇 Please feel free to reach out to me (Last updated: Sept. 20, 2025)
+👇 Please feel free to reach out to me (Last updated: May. 20, 2026)
 
 📖 [Google Scholar](https://scholar.google.com/citations?user=DAJ7HogAAAAJ&hl=zh-CN)            📧 <a href="mailto:xrjiang@mail.ustc.edu.cn">Email</a>
 

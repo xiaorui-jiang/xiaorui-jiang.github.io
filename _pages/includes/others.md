@@ -13,8 +13,7 @@ IEEE International Conference on Multimedia&Expo (ICME) 2025
 
 
 # 💻 Misc
-## English Proficiency
-- IELTS 7.5
+
 <details>
 <summary>Reading Note</summary>
 <pre><code>06/2025 语言的边界就是思想的边界 语言向前进一步 思想也就向前进一步。

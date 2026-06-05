@@ -19,7 +19,7 @@ Currently, my papers under review or in progress include:
 
 
  
-👇 Please feel free to reach out to me (Last updated: May 20, 2026)
+👇 Please feel free to reach out to me (Last updated: June 5, 2026)
 
 📖 [Google Scholar](https://scholar.google.com/citations?user=DAJ7HogAAAAJ&hl=zh-CN)            📧 <a href="mailto:xrjiang@mail.ustc.edu.cn">Email</a>
 

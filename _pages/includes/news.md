@@ -1,5 +1,6 @@
 # 🔥 News
-- *2026.11*: 🎉 [CCAE](https://aclanthology.org/2026.emnlp-main.2484.pdf) has been accepted by EMNLP 2026 (Main Conference)!
+- *2026.10*: 🎉 [CCAE](https://aclanthology.org/2026.emnlp-main.2484.pdf) has been accepted by EMNLP 2026 (Main Conference)!
+- *2026.08*: 🎉 We released our survey [Human-Centric Intelligence in the Era of Foundation Models: A Survey](https://arxiv.org/pdf/2608.18184)!
 - *2026.06*: 🎉 Master’s degree completed. Forever cherishing the memories at USTC!
 - *2026.02*: 🎉 [AIGVDBench](https://arxiv.org/pdf/2601.11035)  has been accepted by CVPR 2026!
 - *2026.01*: 🎉 We released [AIGVDBench](https://arxiv.org/pdf/2601.11035), a large-scale, high-quality benchmark for AI-generated video detection! 

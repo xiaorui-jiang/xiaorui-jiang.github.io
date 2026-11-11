@@ -4,7 +4,7 @@ Hi, I'm Xiaorui Jiang, a first-year Ph.D. student at [The Hong Kong Polytechnic 
 
 My research interests currently center on two directions:
 
-1. <b>Foundation Models</b>, especially the underlying mechanisms of Large Language Models (LLMs) and Vision-Language Models (VLMs), including LLM reasoning, inference optimization, and training-free strategies.
+1. <b>Model Architecture and Mechanisms</b>, with a focus on Large Language Models (LLMs) and Vision-Language Models (VLMs), including LLM reasoning, inference optimization, and training-free strategies.
 
 2. <b>AI for Science</b>, especially human-AI alignment, cognition-guided human-machine optimization and alignment, as well as applications in scientific domains.
 

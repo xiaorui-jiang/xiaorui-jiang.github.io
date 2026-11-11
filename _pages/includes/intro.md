@@ -1,14 +1,12 @@
 # 👀 About Me
 
-Hi, I'm Xiaorui Jiang, a third-year master's student at [University of Science and Technology of China](https://www.ustc.edu.cn/).
+Hi, I'm Xiaorui Jiang, a first-year Ph.D. student at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), advised by Prof. [Jingcai Guo](https://jingcaiguo.github.io/) and co-advised by Prof. [Xintao Liu](https://geoxlab.github.io/).
 
+My research interests currently center on two directions:
 
-[//]: # (I am currently seeking a PhD position and I hope to continue my research in the areas mentioned above.)
-My research interests focus on cross-modal information representation and fusion, with emphasis on the following aspects:
+1. <b>AI itself</b>, especially the underlying mechanisms of Large Language Models (LLMs) and Vision-Language Models (VLMs), including LLM reasoning, inference optimization, and training-free strategies.
 
-1. <b>Multimodal Information Fusion</b>: Investigating the representation and fusion of multimodal data in unsupervised environments, <br> with a focus on methods such as FL and MVL, aiming to achieve efficient information fusion without relying on labeled data.
-
-2. <b>Multimodal Large Language Models</b>: Concentrating on improving the inference performance of MLLMs,   particularly focusing <br>on strategies that do not require additional training, striving to optimize their reasoning ability and generalization.
+2. <b>AI for Science (AI4Science)</b>, especially human-AI alignment, cognition-guided human-machine optimization and alignment, as well as applications in scientific domains.
 
 
 Currently, my papers under review or in progress include:
@@ -19,8 +17,7 @@ Currently, my papers under review or in progress include:
 
 
  
-👇 Please feel free to reach out to me (Last updated: June 5, 2026)
+👇 Please feel free to reach out to me (Last updated: November 11, 2026)
 
 📖 [Google Scholar](https://scholar.google.com/citations?user=DAJ7HogAAAAJ&hl=zh-CN)            📧 <a href="mailto:xrjiang@mail.ustc.edu.cn">Email</a>
-
 

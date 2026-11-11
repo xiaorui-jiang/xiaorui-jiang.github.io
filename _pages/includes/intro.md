@@ -1,6 +1,6 @@
 # 👀 About Me
 
-Hi, I'm Xiaorui Jiang, a first-year Ph.D. student at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), advised by Prof. [Jingcai Guo](https://jingcaiguo.github.io/) and co-advised by Prof. [Xintao Liu](https://geoxlab.github.io/).
+Hi, I'm Xiaorui Jiang, a first-year Ph.D. student at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), advised by Prof. [Jingcai Guo](https://jingcaiguo.github.io/) and Prof. [Xintao Liu](https://geoxlab.github.io/).
 
 My research interests currently center on two directions:
 
